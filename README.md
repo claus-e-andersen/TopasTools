@@ -9,5 +9,5 @@ The use of the Varian linac photon spectra in the file Topas-VarianBeamAR.txt is
 These spectra are useful for simple modelliong of medical megavoltage x-ray beams. 
 
 # R package for reading Topas output
-An R package for reading Topas output is in the repository claus-e-andersen/clanTopas
+An R package for reading Topas output is in the repository 
 https://github.com/claus-e-andersen/clanTopas
