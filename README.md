@@ -1,7 +1,7 @@
 # TopasTools
 Tools related to the use of Topasmc (Topas Monte-Carlo) modelling of ionizing radiation transport, radiation physics and dosimetry.
 
-# Teachnig material
+# Teaching material
 The pdf entitled Topas-guide... contains teachning material (MSc level) regarding simple techniques and tricks etc.  
 
 # Varian medical linac photon spectra
