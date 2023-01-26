@@ -10,3 +10,4 @@ These spectra are useful for simple modelliong of medical megavoltage x-ray beam
 
 # R package for reading Topas output
 An R package for reading Topas output is in the repository claus-e-andersen/clanTopas
+https://github.com/claus-e-andersen/clanTopas
