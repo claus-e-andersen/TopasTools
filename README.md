@@ -16,3 +16,10 @@ https://github.com/claus-e-andersen/clanTopas
 Bash script that can manage topas jobs with large numbers of output files.
 Data files, parameter files, and console output etc. are put in a timestamped output folder.
 This means that we have a clear link between parameter files and output. 
+Sample call:
+'''
+ ./topasgo.sh space10016.txt
+'''
+
+
+
