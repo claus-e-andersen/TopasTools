@@ -12,7 +12,7 @@ These spectra are useful for simple modelliong of medical megavoltage x-ray beam
 An R package for reading Topas output is in the repository 
 https://github.com/claus-e-andersen/clanTopas
 
-## topasago.sh
+## Topas Go (topasgo.sh)
 Bash script that can manage topas jobs with large numbers of output files.
 Data files, parameter files, and console output etc. are put in a timestamped output folder.
 This means that we have a clear link between parameter files and output. 
